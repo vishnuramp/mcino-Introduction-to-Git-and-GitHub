@@ -1,4 +1,4 @@
-# Simple Interest Calculator Final Project
+# Simple Interest Calculator Final IBM Project
 
 This project contains a Bash script to calculate simple interest.
 
