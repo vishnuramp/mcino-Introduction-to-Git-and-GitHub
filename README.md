@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator Project
 
 This project contains a Bash script to calculate simple interest.
 
